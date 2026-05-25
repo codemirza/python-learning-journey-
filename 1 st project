@@ -1,5 +1,6 @@
-name="sania"
-age=20
+Python
+name = "sania"
+age = 20
 
-print=(name)
-print=(age)
+print(name)
+print(age)

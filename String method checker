@@ -1,0 +1,8 @@
+my_str="Hellosaniya"
+
+print(my_str.isalpha())
+
+print(my_str.startswith("H"))
+
+print(my_str.endswith("a"))
+
